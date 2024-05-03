@@ -12,7 +12,7 @@ I'm a fervent advocate for the transformative power of technology. As a **creati
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,c,python,django,flask,mysql,docker,nginx,bash,git,linux,vim,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,c,python,django,flask,mysql,docker,nginx,bash,git,linux,vim,wordpress&perline=8)](https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring

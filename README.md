@@ -1,4 +1,4 @@
-# Hi, I'm Taurai Masaire! 👋
+# Hi, I'm Taurai! 👋
 
 I'm a fervent advocate for the transformative power of technology. As a **creative problem solver**, I'm driven by a deep-seated curiosity for **computer science** and a commitment to **innovation**. My passion lies in harnessing tech to build impactful solutions that address real-world problems. I'm constantly exploring new ideas, tackling complex challenges, and eager to share my insights with the community.
 
@@ -13,7 +13,7 @@ I'm a fervent advocate for the transformative power of technology. As a **creati
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,c,python,pythondjango,mysql,docker,nginx,bash,git,linux,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,c,python,django,mysql,docker,nginx,bash,git,linux,vim)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 

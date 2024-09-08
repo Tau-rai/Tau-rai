@@ -5,30 +5,32 @@ I'm a fervent advocate for the transformative power of technology. As a **creati
 ## 🚀 About Me
 
 - 🔭 I’m a Full Stack Developer 
-- 🌱 I’m currently studying Software Engineering at ALX Africa | Holberton
+- 🌱 Recently graduated Software Engineer from ALX Africa | Holberton School
 - 👯 I’m looking to connect and collaborate on fullstack, backend or open source projects.
 - ⚡ Fun fact: I like chess, soccer and the outdoors
 
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,c,python,django,flask,mysql,docker,nginx,bash,git,linux,vim,wordpress&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,c,python,django,flask,node,mysql,docker,nginx,bash,git,linux,vim,wordpress&perline=8)](https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Development with a focus on backend development and DevOps 
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Flask and Django, powerful Python web frameworks.
+  - Building server-side applications with Flask and Django, powerful Python web frameworks as well as Express and Nodejs.
   - Diving into MySQL and PostgreSQL for efficient and scalable database management.
   - Exploring the capibilities of containerisation and virtual machines with Docker
+  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - Styling with Tailwind CSS to create modern and responsive user interfaces.
 
  
  ##  Projects
 
-- [Typing Speed test](https://tau-rai.github.io/typing-speed-test/)
 - [ByteSerenity](https://www.byteserenity.social)
+- [PennyPillar](https://pennypillar.taurai.tech)
+- [PennyPillarAPI](https://taurai.tech/swagger)
+- [Typing Speed test](https://tau-rai.github.io/typing-speed-test/)
 
 
 ## 📬 Let's Connect

@@ -5,14 +5,14 @@ I'm a fervent advocate for the transformative power of technology. As a **creati
 ## 🚀 About Me
 
 - 🔭 I’m a Full Stack Developer 
-- 🌱 Recently graduated Software Engineer from ALX Africa | Holberton School
+- 🌱 Recently graduated as a Software Engineer from ALX Africa | Holberton School
 - 👯 I’m looking to connect and collaborate on fullstack, backend or open source projects.
 - ⚡ Fun fact: I like chess, soccer and the outdoors
 
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,c,python,django,flask,node,mysql,docker,nginx,bash,git,linux,vim,wordpress&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,c,python,django,flask,nodejs,mysql,docker,nginx,bash,git,linux,vim,wordpress&perline=8)](https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring

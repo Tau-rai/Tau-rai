@@ -13,7 +13,7 @@ I’m a passionate **Software Engineer** with a focus on **Backend Development**
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,flask,nodejs,express,js,mysql,postgres,mongodb,docker,nginx,bash,git,linux,vim,redis,wordpress,github,heroku&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,flask,nodejs,express,js,html,css,tailwindcss,mysql,postgres,mongodb,docker,nginx,bash,git,linux,vim,vscode,redis,wordpress,github,heroku&perline=9)](https://skillicons.dev)
 
 ### Databases & ORMs
 

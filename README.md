@@ -1,4 +1,8 @@
-# Hi, I'm Taurai! 👋
+#<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=blue&center=true&vCenter=true&width=435&lines=Hey..+I'm+Taurai!👋" alt="Typing SVG"/>
+  </h1>
+</div> 
 
 I’m a passionate **Software Engineer** with a focus on **Backend Development** and **DevOps**. My mission is to craft scalable, efficient systems that solve real-world problems. I thrive on building reliable backend services and automating infrastructure to enable smooth and efficient deployments. My curiosity drives me to continuously learn and evolve, experimenting with emerging technologies to push the boundaries of what's possible.
 

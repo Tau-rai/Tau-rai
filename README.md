@@ -1,72 +1,120 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=blue&center=true&vCenter=true&width=435&lines=Hey..+I'm+Taurai!👋" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=38&duration=3000&color=blue&center=true&vCenter=true&width=560&lines=Hey..+I'm+Taurai!👋" alt="Typing SVG"/>
   </h1>
-</div> 
+</div>
 
-I’m a passionate **Software Engineer** with a focus on **Backend Development** and **DevOps**. My mission is to craft scalable, efficient systems that solve real-world problems. I thrive on building reliable backend services and automating infrastructure to enable smooth and efficient deployments. My curiosity drives me to continuously learn and evolve, experimenting with emerging technologies to push the boundaries of what's possible.
+I’m a **Full-Stack Software Engineer** with **strong backend and platform expertise**, focused on building **production-ready, globally scalable systems**. I specialize in **Go** and **Node.js**, with hands-on experience across payments, webhooks, authentication, cloud infrastructure, and **AI-powered features**.
+
+I work comfortably in **remote, async-first teams**, owning systems end-to-end — from architecture and implementation to deployment, monitoring, and long-term maintenance.
+
+---
 
 ## 🚀 About Me
 
-- 🎓 **Software Engineering Graduate** | ALX Africa | Holberton School
-- 🌍 **Backend Developer** specializing in building scalable APIs and infrastructure with a strong focus on DevOps practices.
-- 🔧 Currently focused on backend frameworks like **Django**, **Flask**, and **Node.js**, combined with robust database solutions like **MySQL** and **PostgreSQL**.
-- 🛠️ Adept in **containerization** with **Docker**, and exploring **CI/CD** pipelines with **Jenkins** and **GitHub Actions**.
-- 🧠 Always open to collaborating on exciting **backend**, **DevOps**, or **open-source** projects.
-- ⚡ Fun fact: When I'm not writing code, you’ll find me playing chess or exploring the outdoors.
+* 🎓 **Software Engineering Graduate** | ALX Africa | Holberton School
+* 🌍 **Remote-first Full-Stack Engineer** with deep **backend & platform focus**
+* ⚙️ Production experience with **Go (Golang)** and **Node.js**
+* 💳 Built and operated **payment systems** and **webhook-driven workflows**
+* 🔐 Implemented **OAuth 2.0 / SSO** 
+* 🤖 Integrated **AI systems** and **AI-driven chatbots** into real products
+* 🧠 Experience working with **LLMs (local & hosted)** and **agentic development tools**
+* ☁️ **Multi-cloud production deployments** on **AWS** and **Google Cloud Platform**
+* 📊 Strong background in **monitoring, maintenance, and production operations**
+* ♟️ Chess enthusiast — systems thinking by default
+
+---
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,flask,nodejs,express,js,html,css,tailwindcss,mysql,postgres,mongodb,docker,nginx,bash,git,linux,vim,vscode,redis,wordpress,nextjs,github,heroku&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,python,django,flask,js,react,nextjs,html,css,tailwindcss,mysql,postgres,redis,docker,nginx,linux,bash,git,github,githubactions,aws,gcp,vscode\&perline=9)](https://skillicons.dev)
 
-### Databases & ORMs
+---
 
-- **MySQL** and **PostgreSQL** with ORM tools like **SQLAlchemy** and Django's built-in ORM for seamless database interactions.
-- **MongoDB** for NoSQL solutions, including integration with **Mongoose** in Node.js applications.
+## 🧩 Core Expertise
 
-### Backend & DevOps
+* **Backend & APIs**: Go, Node.js (Express), Django REST Framework
+* **Payments & Webhooks**: Secure integrations, idempotency, retries, verification
+* **Authentication**: OAuth 2.0, Google/Facebook SSO, token-based auth
+* **Databases & State**: MySQL, PostgreSQL, Redis
+* **Frontend**: React, Next.js, Tailwind CSS
 
-- **Backend Frameworks**: Django, Flask, and Express for building RESTful APIs and scalable backend services.
-- **DevOps Tools**: Docker, Kubernetes for container orchestration, Jenkins, and GitHub Actions for CI/CD automation.
-- **Web Servers**: Nginx and HAProxy for reverse proxying, load balancing, and serving static files.
+### DevOps & Cloud
 
-### Frontend & Miscellaneous
+* **AWS** and **Google Cloud Platform**
+* **Cloud Run**, **Compute Engine (VMs)**, **Cloud Storage (Buckets)**
+* **Docker**, **Nginx**
+* **CI/CD** with **GitHub Actions**
+* Linux-based production environments
 
-- **Frontend**: React and Redux for dynamic user interfaces, with **Tailwind CSS** for modern, responsive designs.
-- **JavaScript & jQuery**: For interactive web applications and DOM manipulation.
-- **Version Control**: Git and GitHub for collaboration and source code management.
+### AI & Intelligent Systems
 
-## 🌱 Currently Exploring
+* Integrating **LLMs** into backend and full-stack applications
+* **Local LLM deployments** and hosted model integrations
+* **AI-powered chatbots** and workflow automation
+* Experience with **agentic IDEs and AI-assisted development**
+* Designing AI features with focus on **latency, cost, reliability, and safety**
 
-- **Building scalable backends** using **Python** (Django/Flask) and **Node.js** (Express).
-- **Container orchestration** with **Docker** and **Kubernetes** for smooth deployments.
-- **CI/CD pipelines** using **Jenkins**, **GitHub Actions**, and **Docker** for automation.
-- **Cloud infrastructure** (AWS, DigitalOcean) and tools like **Terraform** and **Ansible** for infrastructure as code.
-- **API development** and **performance optimization** using **Redis** for caching and **Nginx** for load balancing.
-- **Database management** using **SQLAlchemy** for **MySQL** and **PostgreSQL**, focusing on ORM best practices.
+---
+
+## 🧠 System Design Highlights
+
+* **Scalable API Design**
+  Designed REST APIs with clear service boundaries, validation, versioning, and predictable error handling.
+
+* **Payments & Financial Workflows**
+  Built payment systems with webhook verification, idempotent processing, retry strategies, and failure handling.
+
+* **Event-Driven Architecture**
+  Used background jobs, queues, and asynchronous processing to decouple critical workflows and improve reliability.
+
+* **Authentication & Security**
+  Implemented OAuth-based SSO, token-based authentication, and secure session management.
+
+* **Cloud-Native Deployments**
+  Deployed containerized services to **Cloud Run** and **AWS**, balancing cost, scalability, and operational simplicity.
+
+* **Reliability & Operations**
+  Designed systems with logging, monitoring, graceful failures, and rolling updates to support real users.
+
+* **AI Feature Integration**
+  Embedded AI capabilities into traditional systems without compromising performance or maintainability.
+
+---
 
 ## 🌟 Featured Projects
 
-Here are some of my most notable projects:
+### **[Jamii Events](https://jamiievents.co.za)**
 
-- **[ByteSerenity](https://www.byteserenity.social)**: A full-stack blogging platform built using **Python Flask**, **Jinja Templates**, **MySQL** with **Javascript & JQuery**, **TailwindCSS** on the frontend deployed on **DigitalOcean**.
-- **[PennyPillar](https://pennypillar.taurai.tech)**: A personal finance management tool built with **Django**, **MySQL** and **React** on the frontend for tracking income, expenses, and goals, including a dashboard and notifications deployment on **DigitalOcean**.
-- **[PennyPillarAPI](https://taurai.tech/swagger)**: The backend API for PennyPillar, built with **Django REST Framework**, featuring user authentication, transaction management, and analytics deployed on **DigitalOcean**.
-- **[Typing Speed Test](https://tau-rai.github.io/typing-speed-test/)**: A fun web-based typing speed test, implemented using **JavaScript** and **jQuery**.
-- **[Equipped Solutions](https://equippedsolutions.co.za)**: A WordPress website for a client, showcasing their services.
+Event management & ticketing platform
+**Golang API • MySQL • React • AWS • GitHub Actions CI/CD**
 
-## 🌐 Open Source Contributions
+### **[FinPulse AI](https://finpulseai.co.za)**
 
-- **Contributed to Flask and Django projects**: Working on improving core functionalities for better performance and scalability.
-- **DevOps Automation**: Sharing scripts and automations on GitHub for Docker-based CI/CD pipelines and deployment strategies.
+AI-powered finance platform
+**Next.js • Supabase Auth • PostgreSQL • VM hosting**
+
+### **[Equipped Solutions](https://equippedsolutions.co.za)**
+
+ A **Nextjs** website for a client, showcasing their services.
+
+---
+
+## 🌱 Currently Focused On
+
+* Designing globally scalable backend systems
+* Distributed and event-driven architectures
+* Advanced Go concurrency patterns
+* Cloud-native observability and reliability
+* Practical, production-ready AI integration
+
+---
 
 ## 📬 Let’s Connect
 
-- 🐦 **Twitter**: [@tau_rai](https://twitter.com/tau_rai)
-- 💼 **LinkedIn**: [Taurai Masaire](https://linkedin.com/m/taurai-masaire)
-- 🌍 **Website**: [taurai.tech](https://taurai.tech)
-- 📧 **Email**:   [taumasaire@gmail.com](mailto:taumasaire@gmail.com)
+* 🐦 **Twitter/X**: [@tau_rai](https://twitter.com/tau_rai)
+* 💼 **LinkedIn**: [Taurai Masaire](https://linkedin.com/m/taurai-masaire)
+* 🌍 **Website**: [taurai.tech](https://taurai.tech)
+* 📧 **Email**: [taumasaire@gmail.com](mailto:taumasaire@gmail.com)
 
-
-
-  
+---
